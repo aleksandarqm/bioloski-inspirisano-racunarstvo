@@ -1,2 +1,2 @@
 # bioloski-inspirisano-racunarstvo
-Master 4.0  predmet Biloski inspirisano racunarsto
+Master 4.0  predmet Bioloski inspirisano racunarsto
